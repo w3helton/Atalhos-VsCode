@@ -1,7 +1,7 @@
 # Atalhos-VsCode
 ` `**Atalhos Visual Studio Code**
-![](https://github.com/w3helton/Atalhos-VsCode/blob/main/img/img%20(1).png)
 ![](https://github.com/w3helton/Atalhos-VsCode/blob/main/img/img%20(2).png)
+![](https://github.com/w3helton/Atalhos-VsCode/blob/main/img/img%20(1).png)
 |**Edição Básica**||
 | :- | :- |
 |![](https://github.com/w3helton/Atalhos-VsCode/blob/main/img/img%20(3).png)|Recortar linha (seleção vazia)|
