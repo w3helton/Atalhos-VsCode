@@ -1,6 +1,7 @@
 # Atalhos-VsCode
 ` `**Atalhos Visual Studio Code**
-![](https://github.com/w3helton/Atalhos-VsCode/blob/main/img/img%20(1).png)![https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png](https://github.com/w3helton/Atalhos-VsCode/blob/main/img/img%20(2).png)
+![](https://github.com/w3helton/Atalhos-VsCode/blob/main/img/img%20(1).png)
+![](https://github.com/w3helton/Atalhos-VsCode/blob/main/img/img%20(2).png)
 |**Edição Básica**||
 | :- | :- |
 |![](https://github.com/w3helton/Atalhos-VsCode/blob/main/img/img%20(3).png)|Recortar linha (seleção vazia)|
